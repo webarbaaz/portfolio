@@ -1,4 +1,5 @@
 # Portfolio
+![image](https://github.com/webarbaaz/portfolio/assets/143998973/2ee284c0-0da2-45d4-b91f-6f8e68af39bc)
 ### Welcome to my portfolio! This portfolio showcases my projects, skills, and experience as a developer. It is built using Next.js, Tailwind CSS, and Framer Motion. The portfolio is hosted on Vercel for easy deployment and scalability.
 
 ## Technologies Used
@@ -11,9 +12,6 @@
 * Responsive Design: The portfolio is designed to be fully responsive, ensuring a seamless experience across devices.
 * Animated Transitions: Framer Motion is used to create smooth page transitions and interactive animations.
 * Email Resend: Includes a feature to resend emails for connecting with the developer.
-
-## Image
-![image](https://github.com/webarbaaz/portfolio/assets/143998973/2ee284c0-0da2-45d4-b91f-6f8e68af39bc)
 
 ## Link to the portfolio
 https://portfolio-86jnlmey4-arbaaz-shaikhs-projects.vercel.app/
